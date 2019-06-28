@@ -1,0 +1,39 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,cartoon-egret_00_png",
+			"name": "preload"
+		},
+		{
+			"keys": "JinBi_png",
+			"name": "base"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/cartoon-egret_00.png",
+			"type": "image",
+			"name": "cartoon-egret_00_png"
+		},
+		{
+			"url": "assets/JinBi.png",
+			"type": "image",
+			"name": "JinBi_png"
+		}
+	]
+}
