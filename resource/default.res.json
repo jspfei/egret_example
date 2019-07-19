@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "bg_jpg,egret_icon_png,description_json,cartoon-egret_00_png",
+			"keys": "bg_jpg,egret_icon_png,description_json,cartoon-egret_00_png,cartoon-egret_01_small_png,cartoon-egret_01_small2_png,writing_json,writing_png,DaTouCai_json",
 			"name": "preload"
 		},
 		{
@@ -34,6 +34,32 @@
 			"url": "assets/JinBi.png",
 			"type": "image",
 			"name": "JinBi_png"
+		},
+		{
+			"url": "cartoon-egret_01_small.png",
+			"type": "image",
+			"name": "cartoon-egret_01_small_png"
+		},
+		{
+			"name": "cartoon-egret_01_small2_png",
+			"type": "image",
+			"url": "cartoon-egret_01_small.png"
+		},
+		{
+			"name": "writing_json",
+			"type": "json",
+			"url": "assets/anim/writing.json"
+		},
+		{
+			"name": "writing_png",
+			"type": "image",
+			"url": "assets/anim/writing.png"
+		},
+		{
+			"name": "DaTouCai_json",
+			"type": "sheet",
+			"url": "assets/icon/DaTouCai.json",
+			"subkeys": "DaTouCai0_1,DaTouCai1,DaTouCai2,DaTouCai3,DaTouCai4,DaTouCai5,DaTouCai6,DaTouCai7,DaTouCai8,DaTouCai9,DaTouCai10,DaTouCai0"
 		}
 	]
 }
